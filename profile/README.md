@@ -21,7 +21,7 @@ Eight minimal, single-responsibility TypeScript packages. Zero cross-package dep
 | [aieventjs](https://www.npmjs.com/package/aieventjs) | Typed event emitter · AbortSignal · wildcard · Mitt-shaped | [![npm](https://img.shields.io/npm/v/aieventjs?style=flat-square&color=4f46e5&labelColor=1e1b4b&label=npm)](https://www.npmjs.com/package/aieventjs) |
 | [aiquadtreejs](https://www.npmjs.com/package/aiquadtreejs) | 2D quadtree collision broadphase · per-frame rebuild | [![npm](https://img.shields.io/npm/v/aiquadtreejs?style=flat-square&color=4f46e5&labelColor=1e1b4b&label=npm)](https://www.npmjs.com/package/aiquadtreejs) |
 | [aipooljs](https://www.npmjs.com/package/aipooljs) | Fixed-size object pool · fail-fast · double-release detection | [![npm](https://img.shields.io/npm/v/aipooljs?style=flat-square&color=4f46e5&labelColor=1e1b4b&label=npm)](https://www.npmjs.com/package/aipooljs) |
-| [aibridgejs](https://www.npmjs.com/package/aibridgejs) | Transport-agnostic bridge · iframe · Flutter WebView · Worker | [![npm](https://img.shields.io/npm/v/aibridgejs?style=flat-square&color=4f46e5&labelColor=1e1b4b&label=npm)](https://www.npmjs.com/package/aibridgejs) |
+| [aibridgejs](https://www.npmjs.com/package/aibridgejs) | Transport-agnostic bridge · iframe · Flutter WebView · custom adapters | [![npm](https://img.shields.io/npm/v/aibridgejs?style=flat-square&color=4f46e5&labelColor=1e1b4b&label=npm)](https://www.npmjs.com/package/aibridgejs) |
 
 ---
 
